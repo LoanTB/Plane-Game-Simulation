@@ -19,8 +19,8 @@ This project is a flight simulation game built using Python and Pygame. The play
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/plane-game-simulation.git
-   cd plane-game-simulation
+   git clone https://github.com/LoanTB/Plane-Game-Simulation.git
+   cd Plane-Game-Simulation
    ```
 
 2. Install Pygame if not already installed:
