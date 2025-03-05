@@ -2,6 +2,9 @@
 
 This project is a flight simulation game built using Python and Pygame. The player controls an aircraft, with visualized speed, altitude, and weapons. The simulation models basic aerodynamics, weapon firing, and environmental interaction, creating an engaging experience for users who want to explore arcade-style flight dynamics.
 
+![image](https://github.com/user-attachments/assets/6c69c48f-3abb-4a10-b1c2-39829965fcd3)
+
+
 ## Features
 
 - **Aircraft Control**: Move the plane in all directions, accelerate, decelerate, and rotate for full maneuverability.
