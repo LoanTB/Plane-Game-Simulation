@@ -18,24 +18,6 @@ This project is a flight simulation game built using Python and Pygame. The play
 - **Python 3.x**
 - **Pygame**: Install via pip with `pip install pygame`
 
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/LoanTB/Plane-Game-Simulation.git
-   cd Plane-Game-Simulation
-   ```
-
-2. Install Pygame if not already installed:
-   ```bash
-   pip install pygame
-   ```
-
-3. Run the game:
-   ```bash
-   python main.py
-   ```
-
 ## Game Controls
 
 - **Arrow Keys (or WASD)**: Control the direction of the aircraft.
